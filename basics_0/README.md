@@ -1,11 +1,11 @@
-# Network - Basics 0
-# Networking basics #0
 
-## Description
+# Networking basics 0
+
+# Description
 
 Introduction aux fondamentaux du réseau informatique. Ce projet couvre le modèle OSI, les types de réseaux, l'adressage MAC/IP, les protocoles TCP/UDP et les outils de diagnostic réseau sous Linux.
 
-## Learning Objectives
+# Learning Objectives
 
 - Comprendre le modèle OSI et ses 7 couches
 - Distinguer les types de réseaux (LAN, WAN, Internet)
@@ -13,7 +13,7 @@ Introduction aux fondamentaux du réseau informatique. Ce projet couvre le modè
 - Différencier TCP et UDP
 - Utiliser `netstat` et `ping`
 
-## Fichiers
+# Fichiers
 
 | Fichier | Description |
 |---------|-------------|
